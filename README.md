@@ -1,4 +1,4 @@
-# FanBack
+# Repliq
 
 > FanBack is a web app designed to help YouTube creators manage and respond to their comments faster and more efficiently.
 
